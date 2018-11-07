@@ -1,2 +1,2 @@
-# epzylon.github.io
-My site
+# web
+Repositorio de código con ejemplo de página web sencilla pero eficaz.
